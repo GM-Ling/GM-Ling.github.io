@@ -29,7 +29,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Kyushu University"
-  uri              : # URL
+  uri              : "https://gm-ling.github.io"
   email            : "none@example.org" 
 
   # Academic websites
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-7886-996X"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Guoming-Ling"
   scopus           : # URL
   zotero           : # URL
