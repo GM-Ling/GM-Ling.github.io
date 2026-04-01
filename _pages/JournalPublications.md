@@ -6,7 +6,7 @@ author_profile: true
 
 
 
-**[First Author (JF)](#jf)** &nbsp; &nbsp; **[Corresponding Author (JS)](#js)** &nbsp; &nbsp; **[Co-Author (JC)](#jc)** &nbsp; &nbsp; **[Google Scholar (Up to date)](https://scholar.google.com/citations?user=GvXOVv0AAAAJ)**
+**[First Author (JF)](#jf)** &nbsp; &nbsp; **[Co-Author (JC)](#jc)** &nbsp; &nbsp; **[Google Scholar (Up to date)](https://scholar.google.com/citations?user=KxtAy7wAAAAJ&hl=ja)**
 
 
 <h2 id="jf">
