@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor in the Disaster Risk Reduction Research Center at Kyushu University.
+Researcher in computational mechanics, with interests in tsunami simulation, coastal hydrodynamics, fluid-structure interaction, and discontinuous Galerkin methods.
 
 #Example: editing a Markdown file for a talk
 #![Editing a Markdown file for a talk](/images/editing-talk.png)
