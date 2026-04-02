@@ -12,4 +12,4 @@ Researcher in computational mechanics, with interests in tsunami simulation, coa
 
 ![image](https://GM-Ling.github.io/images/maxele_satake_delayed_hotstart.png)
 
-![Tsunami animation](/images/global_tsunami.gif)
+![Tsunami animation](/images/zeta_less1day.gif)
