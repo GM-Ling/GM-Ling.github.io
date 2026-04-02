@@ -6,7 +6,7 @@ author_profile: true
 
 
 
-**[Peer-reviewed Journal Articles (PJ)](#pj)** &nbsp; &nbsp; **[Others (JC)](#jc)** &nbsp; &nbsp; **[Google Scholar (Up to date)](https://scholar.google.com/citations?user=KxtAy7wAAAAJ&hl=ja)**
+**[Peer-reviewed Journal Articles (PJ)](#pj)** &nbsp; &nbsp; **[Preprint (pr)](#pr)** &nbsp; &nbsp; **[Google Scholar (Up to date)](https://scholar.google.com/citations?user=KxtAy7wAAAAJ&hl=ja)**
 
 
 <h2 id="pj">
@@ -15,7 +15,7 @@ Peer-reviewed Journal Articles
 
 <u>[PJ010]</u>. **"A depth-averaged quasi-two-phase morphodynamic model using a discontinuous Galerkin method with an orthogonal bubble function."**  
 **Water Resources Research**, in review.  
-👤<u>Authors</u>: **<u>Guoming Ling*</u>**, Reo Matsumoto, Seizo Tanaka, Mitsuteru Asai,	Damrongsak Wirasaet and Joannes Westerink.  
+👤<u>Authors</u>: **<u>Guoming Ling</u>**, Reo Matsumoto, Seizo Tanaka, Mitsuteru Asai*,	Damrongsak Wirasaet and Joannes Westerink.  
 🔑<u>Keywords</u>: Discontinuous Galerkin method, Shallow water equations, Exner equation, Riverbed evolution, Secondary flow modeling, No-normal flow boundary condition.
 
 <u>[PJ009]</u>. **"{FCM-FEM} hybrid scheme equipped with a ghost element coupler for liquid-gas-solid three phase simulation."**  
@@ -62,3 +62,14 @@ Peer-reviewed Journal Articles
 **土木学会論文集A2（応用力学）**, Volume 72, Issue 2, p. I\_285--I\_293, 2016.6. **[https://doi.org/10.2208/jscejam.72.I_285](https://doi.org/10.2208/jscejam.72.I_285)**  
 👤<u>Authors</u>: **<u>凌 国明*</u>**, 松本 純一, 樫山 和男.  
 🔑<u>Keywords</u>: Overlapping Method, 2D-3D hybrid method, Tsunami, Stabilized Finite Element Method, VOF Method.
+
+
+<h2 id="pr">
+Preprint
+</h2>
+
+<u>[PR001]</u>. **"Development and validation of an Alaskan coupled storm surge, tide, wind wave, and sea ice forecasting system."**  
+**Earth ArXiv**, 2023.6.16. **[https://doi.org/10.31223/X5837K](https://doi.org/10.31223/X5837K)**  
+👤<u>Authors</u>: **<u>Guoming Ling*</u>**, Damrongsak Wirasaet, Joannes Westerink, Maria Teresa Contreras Vargas, Mindo Choi, William Pringle, Coleman Blakely, David Richter, Ali Abdolali, Andre van der Westhuysen, Kyle Steffen, Clint Dawson, Ayumi Fujisaki-Manome, Jia Wang, Edward Myers, Saeed Moghimi, Carol Janzen, Rob Bochenek and Jesse Lopez.  
+🔑<u>Keywords</u>: Time series forecasting, Mamba, Nonlinear dependencies, Embedding channel attention, Maclaurin.
+
