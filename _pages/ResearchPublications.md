@@ -19,8 +19,8 @@ Peer-reviewed Journal Articles
 🔑<u>Keywords</u>: 2D-3D hybrid model, finite element method, free surface flow, overlapping method, shallow water, two-way coupling.
 
 <u>[PJ004]</u>. **"Dissipation and Bathymetric Sensitivities in an Unstructured Mesh Global Tidal Model."**  
-**Journal of Geophysical Research: Oceans**, e2021JC018178, 2022.6. **[https://doi.org/10.1029/2021JC018178](https://doi.org/10.1029/2021JC018178)**  
-👤<u>Authors</u>: Coleman Blakely, **<u>Guoming Ling</u>**, William James Pringle, María Teresa Contreras, Damrongsak Wirasaet, Joannes Westerink, Saeed Moghimi, Greg Seroka, Lei Shi, Edward P. Myers III, Margaret Owensby and Thomas Christopher Massey.  
+**Journal of Geophysical Research: Oceans**, e2021JC018178, 2022.5. **[https://doi.org/10.1029/2021JC018178](https://doi.org/10.1029/2021JC018178)**  
+👤<u>Authors</u>: Coleman Blakely*, **Guoming Ling**, William James Pringle, María Teresa Contreras, Damrongsak Wirasaet, Joannes Westerink, Saeed Moghimi, Greg Seroka, Lei Shi, Edward P. Myers III, Margaret Owensby and Thomas Christopher Massey.  
 🔑<u>Keywords</u>: Boundary layer dissipation.
 
 <u>[PJ003]</u>. **"2D-3Dハイブリッド津波解析手法の精度及び大規模化に関する検討."**  
@@ -30,7 +30,7 @@ Peer-reviewed Journal Articles
 
 <u>[PJ002]</u>. **"水環境・防災シミュレーションのためのマーカーレスARシステムとその適用性について."**  
 **土木学会論文集F3（土木情報学）**, Volume 72, Issue 2, p. I\_234--I\_241, 2017.10. **[ https://doi.org/10.2208/jscejcei.73.I_234](https://doi.org/10.2208/jscejcei.73.I_234)**  
-👤<u>Authors</u>: 花立 麻衣子, 池田 直旺, **<u>凌 国明</u>**, 樫山 和男, 宮地 英生, 前田 勇司, 西畑 剛.  
+👤<u>Authors</u>: 花立 麻衣子, 池田 直旺, **凌 国明**, 樫山 和男, 宮地 英生, 前田 勇司, 西畑 剛.  
 🔑<u>Keywords</u>: Markerless augmented reality, visualization, water environmental problem, disaster prevention.
 
 <u>[PJ001]</u>. **"任意格子に基づくオーバーラッピング手法を用いた2次元・3次元ハイブリッド津波解析手法."**  
