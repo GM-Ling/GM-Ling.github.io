@@ -31,9 +31,9 @@ Peer-reviewed Journal Articles
 <u>[PJ007]</u>. **"Advanced sea ice modeling for short-term forecasting for Alaska’s coasts."**  
 **Weather and Forecasting**, Volume 39, Issue 5, p. 793--806, 2024.5. **[https://doi.org/10.1175/WAF-D-23-0178.1](https://doi.org/10.1175/WAF-D-23-0178.1)**  
 👤<u>Authors</u>: Ayumi Fujisaki-Manome*, Haoguo Hu, Jia Wang, Joannes Westerink, Damrongsak Wirasaet, **Guoming Ling**, Mindo Choi, Saeed Moghimi, Edward Myers, Ali Abdolali, Clint Dawson and Carol Janzen.  
-🔑<u>Keywords</u>: Sea ice; Coastal meteorology; Ice thickness; Numerical analysis/modeling; Operational forecasting.
+🔑<u>Keywords</u>: Sea ice, Coastal meteorology, Ice thickness, Numerical analysis/modeling, Operational forecasting.
 
-<u>[PJ006]</u>. **"Variable passing method for combining 3D MPM–FEM hybrid and 2{D} shallow water simulations of landslide‐induced tsunamis."**  
+<u>[PJ006]</u>. **"Variable passing method for combining 3D MPM–FEM hybrid and 2D shallow water simulations of landslide‐induced tsunamis."**  
 **International Journal for Numerical Methods in Fluids**, Volume 96, Issue 1, p. 17--43, 2024.1. **[https://doi.org/10.1002/fld.5233](https://doi.org/10.1002/fld.5233)**  
 👤<u>Authors</u>: Shaoyuan Pan*, Reika Nomura, **Guoming Ling**, Shinsuke Takase, Shuji Moriguchi and Kenjiro Terada.  
 🔑<u>Keywords</u>: 2D–3D coupling, finite element method, landslide-triggered tsunami, material point method, overlapping method.
