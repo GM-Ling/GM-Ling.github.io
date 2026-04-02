@@ -15,7 +15,7 @@ Guoming Ling, Mitsuteru Asai and Kenjiro Terada, FCM-FEM hybrid scheme equipped 
 
 ![FSI simulation](/images/phi1s.gif)
 
-**2.** **Global Tsunami Simulation:** [**[DC003](https://gm-ling.github.io/Conferences)**]. 
+**2.** **Whole Global Tsunami Simulation:** [**[DC003](https://gm-ling.github.io/Conferences)**]. 
 
 ![Global Tsunami Simulation](/images/zeta_less1day.gif)
 
