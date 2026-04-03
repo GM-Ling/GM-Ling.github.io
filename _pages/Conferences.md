@@ -77,19 +77,74 @@ International Conferences
 Domestic Conferences
 </h2>
 
-<u>[DC003]</u>. **"Global Tsunami Simulation of the 2011 Tohoku Event with ADCIRC: Source Model Comparison and Accuracy Assessment."**  
+<u>[DC013]</u>. **"Global Tsunami Simulation of the 2011 Tohoku Event with ADCIRC: Source Model Comparison and Accuracy Assessment."**  
 **第31回計算工学講演会**, ウインクあいち（名古屋市）, Japan, 2026.6.3. **[https://www.jsces.org/koenkai/31/](https://www.jsces.org/koenkai/31/)**, <span style="color: red;"><strong>Coming soon</strong></span>.  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Damrongsak Wirasaet, Joannes Westerink, Mitsuteru Asai.  
 🔑<u>Keywords</u>: ADCIRC, Finite Element Method, Global tsunami simulation, 2011 Tohoku tsunami, Source-model comparison.
 
-<u>[DC002]</u>. **"拡張仮想要素カプラーによる有限被覆法に基づく流体―構造連成解析手法の高度化."**  
+<u>[DC012]</u>. **"拡張仮想要素カプラーによる有限被覆法に基づく流体―構造連成解析手法の高度化."**  
 **第38回数値流体力学シンポジウム**, 東京大学駒場IIキャンパス生産技術研究所, Japan, 2024.12.11. **[https://www2.nagare.or.jp/cfd/cfd38/](https://www2.nagare.or.jp/cfd/cfd38/)**  
 👤<u>Authors</u>: **<u>凌国明</u>**, 浅井光輝, 寺田賢二郎.  
 🔑<u>Keywords</u>: Fluid-Structure Interaction.
 
-<u>[DC001]</u>. **"安定化有限要素法に基づく2次元・3次元ハイブリッド津波解析モデルの構築."**  
+<u>[DC011]</u>. **"構造物の損傷を考慮した有限要素法に基づく流体―構造連成解析⼿法の構築."**  
+**第32回数値流体⼒学シンポジウム**, 	機械振興会館, Japan, 2018.12.11. **[https://www2.nagare.or.jp/cfd/cfd32/](https://www2.nagare.or.jp/cfd/cfd32/)**  
+👤<u>Authors</u>: **<u>凌国明</u>**, 車谷麻緒，樫山和男.  
+🔑<u>Keywords</u>: Fluid-Structure Interaction.
+
+<u>[DC010]</u>. **"DG法によるBoussinesq方程式に基づく津波解析モデルの構築."**  
+**土木学会全国大会第72回年次学術講演会**, 九州大学 伊都キャンパス, Japan, CS13-003, 2017.9.11. **[https://committees.jsce.or.jp/zenkoku/node/120](https://committees.jsce.or.jp/zenkoku/node/120)** 
+👤<u>Authors</u>: **<u>凌国明</u>**, 伊藤翔, Ethan Kubatko, 樫山和男.   
+🔑<u>Keywords</u>: DG法, Boussinesq方程式, 津波解析.
+
+<u>[DC009]</u>. **"安定化有限要素法に基づくphase-fieldモデルを用いた2次元・3次元ハイブリッド津波解析モデルの構築."**  
+**第22回計算工学会講演会**, ソニックシティ, 埼玉県, Japan, B-10-5, 2017.6.2. **[https://www.jsces.org/koenkai/22/](https://www.jsces.org/koenkai/22/)**  
+👤<u>Authors</u>: **<u>凌国明</u>**, 松本純一, 樫山和男.  
+🔑<u>Keywords</u>: 2D-3D hybrid model.
+
+<u>[DC008]</u>. **"自由表面流れ解析における精度向上に関する検討."**  
+**第20回応用力学シンポジウム**, 京都大学吉田キャンパス本部構内, Japan, C000153, 2017.5.21. **[https://www.jsce.or.jp/committee/amc/jam/past/2017program.pdf](https://www.jsce.or.jp/committee/amc/jam/past/2017program.pdf)**  
+👤<u>Authors</u>: **<u>凌国明</u>**, 松本純一, 樫山和男.  
+🔑<u>Keywords</u>: 自由表面流れ解析.
+
+<u>[DC007]</u>. **"Discontinuous Galerkin法による浅水長波流れ解析に関する検討."**  
+**平成28年度全国大会第71回年次学術講演会**, 東北大学 川内北キャンパス, Japan, Ⅱ-097, 2016.9.9. **[https://committees.jsce.or.jp/zenkoku/node/113](https://committees.jsce.or.jp/zenkoku/node/113)**   
+👤<u>Authors</u>: **<u>凌国明</u>**, 樫山和男. 
+🔑<u>Keywords</u>: Discontinuous Galerkin法, 浅水長波流れ.
+
+<u>[DC006]</u>. **"任意格子を用いた2次元・3次元ハイブリッド津波解析モデルの構築."**  
+**第21回計算工学講演会**, 朱鷺メッセ：新潟コンベンションセンター, Japan, OS3-2, C-6-1, 2016.6.1. **[https://www.jsces.org/koenkai/21/](https://www.jsces.org/koenkai/21/)**   
+👤<u>Authors</u>: **<u>凌国明</u>**, 松本純一, 樫山和男. 
+🔑<u>Keywords</u>: オーバーラッピング手法.
+
+<u>[DC005]</u>. **"任意格子に基づくオーバーラッピング手法を用いた2次元・3次元ハイブリッド津波解析手法."**  
+**第19回応用力学シンポジウム**, 北海道大学工学部, Japan, 100102, 2016.5.21. 
+👤<u>Authors</u>: **<u>凌国明</u>**, 松本純一, 樫山和男.  
+🔑<u>Keywords</u>: オーバーラッピング手法.
+
+<u>[DC005]</u>. **"VOF安定化有限要素法に基づく2次元・3次元ハイブリッド津波解析モデルの構築."**  
+**第70回全国大会**, 岡山大学津島キャンパス, Japan,CS8-004, 2015.9.16.  
+👤<u>Authors</u>: **<u>凌国明</u>**, 松本純一, 樫山和男.  
+🔑<u>Keywords</u>: VOF法, 有限要素法, 浅水長波, 自由表面流れ.
+
+<u>[DC004]</u>. **"有限要素法に基づく2次元・3次元津波解析とそのハイブリッドモデルの構築."**  
+**第20回計算工学講演会**, つくば国際会議場, Japan, A-4-2, 2015.6.8.  
+👤<u>Authors</u>: **<u>凌国明</u>**, 松本純一, 樫山和男.  
+🔑<u>Keywords</u>: VOF法, 有限要素法, 浅水長波, 自由表面流れ.
+
+<u>[DC003]</u>. **"安定化有限要素法に基づく2次元・3次元ハイブリッド津波解析モデルの構築."**  
 **第18回応用力学シンポジウム**, 金沢大学角間キャンパス自然科学本館・自然科学大講義棟, Japan, 100046, 2015.5.17. **[https://www.jsce.or.jp/committee/amc/jam/past/2015program.pdf](https://www.jsce.or.jp/committee/amc/jam/past/2015program.pdf)**  
 👤<u>Authors</u>: **<u>凌国明</u>**, 松本純一，不室太希，樫山和男.  
 🔑<u>Keywords</u>: 津波解析モデル.
+
+<u>[DC002]</u>. **"安定化有限要素法に基づく２次元・３次元ハイブリッド津波解析モデルの構築."**  
+**第42回関東支部**, 東海大学湘南キャンパス, Japan, 2015.3.5.  
+👤<u>Authors</u>: **<u>凌国明</u>**, 松本純一, 樫山和男.  
+🔑<u>Keywords</u>: VOF法, 有限要素法, 浅水長波, 自由表面流れ.
+
+<u>[DC001]</u>. **"VOF安定化有限要素法による構造物に作用する流体力評価."**  
+**第28回数値流体力学シンポジウム**, タワーホール船堀, 東京都江戸川区船堀, Japan, A03-1, 2014.12.09. **[https://www2.nagare.or.jp/cfd/cfd28/](https://www2.nagare.or.jp/cfd/cfd28/)**  
+👤<u>Authors</u>: **<u>凌国明</u>**, 太田真貴子, 樫山和男.  
+🔑<u>Keywords</u>: VOF法, 有限要素法, 自由表面流れ.
 
 
