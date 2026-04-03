@@ -152,6 +152,6 @@ Co-Author
 </h2>
 
 <u>[CC001]</u>. **"Development of the Alaska Coastal Ocean Forecast System ALCOFS."**  
-**APCOM 2019**, Taipei International Convention Center, Taiwan, MS101B, 0718, 2019.12.19.   
+**APCOM 2019**, Taipei International Convention Center, Taiwan, MS101B, 0718, 2019.12.19. (Keynote presentation, delivered on behalf of Joannes Westerink)   
 👤<u>Authors</u>: Joannes Westerink, Dam Wirasaet, William Pringle, **<u>Guoming Ling</u>**, Mindo Choi, Clint Dawson, Kyle Steffan, Ayumi Fujisake-Manome, Philip Chu, Jia Wang, Jesse Feyen, Haoguo Hu, Carol Janzen, Jesse Lopez, Rob Bochenek, Sergey Vinogradov, Saeed Moghimi, Edward Myers, Andre van der Westhuysen,  Ali  Abdolali.  
 🔑<u>Keywords</u>: Storm surge simulation.
