@@ -11,10 +11,10 @@ author_profile: true
 Education
 </h2>
 
-- 2015.4-2018.3: Ph.D. in Engineering, Civil and Environmental Engineering, Chuo University, Japan  
-- 2013.4-2015.3: Master of Engineering, Civil and Environmental Engineering, Chuo University, Japan
-- 2012.10-2013.3: Research Student, Civil and Environmental Engineering, Chuo University, Japan
-- 2012.10-2013.3: Japanese Language Program, The Asian Students Cultural Association, Tokyo, Japan
+- 2015.4-2018.3: Ph.D. in Engineering, Civil and Environmental Engineering, Chuo University, Japan(MEXT Scholarship)  
+- 2013.4-2015.3: Master of Engineering, Civil and Environmental Engineering, Chuo University, Japan(MEXT Scholarship)
+- 2012.10-2013.3: Research Student, Civil and Environmental Engineering, Chuo University, Japan(MEXT Scholarship)
+- 2012.10-2013.3: Japanese Language Program, The Asian Students Cultural Association, Tokyo, Japan(MEXT Scholarship)
 - 2008.9-2012.6: Bachelor of Engineering, Civil Engineering, Sichuan Unversity, China
 
 <h2 id="pe">
