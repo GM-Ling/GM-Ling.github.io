@@ -155,3 +155,8 @@ Co-Author
 **APCOM 2019**, Taipei International Convention Center, Taiwan, MS101B, 0718, 2019.12.19. (Keynote presentation, delivered on behalf of Joannes Westerink)   
 👤<u>Authors</u>: Joannes Westerink, Dam Wirasaet, William Pringle, **<u>Guoming Ling</u>**, Mindo Choi, Clint Dawson, Kyle Steffan, Ayumi Fujisake-Manome, Philip Chu, Jia Wang, Jesse Feyen, Haoguo Hu, Carol Janzen, Jesse Lopez, Rob Bochenek, Sergey Vinogradov, Saeed Moghimi, Edward Myers, Andre van der Westhuysen,  Ali  Abdolali.  
 🔑<u>Keywords</u>: Storm surge simulation.
+
+<u>[CC001]</u>. **"不連続ガラーキン法による二次元浅水長波流れを対象とした河川氾濫解析."**  
+**令和7年度土木学会西部支部研究発表会**, 九州産業大学, 福岡市, Japan, I-10, 2026.03.07. **[https://www.jsce.or.jp/branch/seibu/03_study/r_07kenkyu.html](https://www.jsce.or.jp/branch/seibu/03_study/r_07kenkyu.html)**  
+👤<u>Authors</u>: 波多野章博, **<u>凌国明</u>**, 浅井光輝.  
+🔑<u>Keywords</u>: 不連続ガラーキン法, 浅水長波流れ.
