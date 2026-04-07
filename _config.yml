@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "GL.png"
   name             : "Guoming Ling 凌 国明"
-  pronouns         : "he/his"  
-  bio              : "Research Assistant Professor"
+  #pronouns         : "he/his"  
+  bio              : "Assistant Professor"
   location         : "Fukuoka, Japan"
   employer         : "Kyushu University"
   uri              : "https://gm-ling.github.io"
