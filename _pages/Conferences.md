@@ -151,12 +151,27 @@ Domestic Conferences
 Co-Author
 </h2>
 
-<u>[CC002]</u>. **"Development of the Alaska Coastal Ocean Forecast System ALCOFS."**  
+<u>[CC005]</u>. **"不連続ガラーキン法による二次元浅水長波流れを対象とした河川氾濫解析."**  
+**令和7年度土木学会西部支部研究発表会**, 九州産業大学, 福岡市, Japan, I-10, 2026.03.07. **[https://www.jsce.or.jp/branch/seibu/03_study/r_07kenkyu.html](https://www.jsce.or.jp/branch/seibu/03_study/r_07kenkyu.html)**  
+👤<u>Authors</u>: 波多野章博, **<u>凌国明</u>**, 浅井光輝.  
+🔑<u>Keywords</u>: 不連続ガラーキン法, 浅水長波流れ.
+
+<u>[CC004]</u>. **"Development of the Alaska Coastal Ocean Forecast System ALCOFS."**  
 **APCOM 2019**, Taipei International Convention Center, Taiwan, MS101B, 0718, 2019.12.19. (Keynote presentation, delivered on behalf of Joannes Westerink)   
 👤<u>Authors</u>: Joannes Westerink, Dam Wirasaet, William Pringle, **<u>Guoming Ling</u>**, Mindo Choi, Clint Dawson, Kyle Steffan, Ayumi Fujisake-Manome, Philip Chu, Jia Wang, Jesse Feyen, Haoguo Hu, Carol Janzen, Jesse Lopez, Rob Bochenek, Sergey Vinogradov, Saeed Moghimi, Edward Myers, Andre van der Westhuysen,  Ali  Abdolali.  
 🔑<u>Keywords</u>: Storm surge simulation.
 
-<u>[CC001]</u>. **"不連続ガラーキン法による二次元浅水長波流れを対象とした河川氾濫解析."**  
-**令和7年度土木学会西部支部研究発表会**, 九州産業大学, 福岡市, Japan, I-10, 2026.03.07. **[https://www.jsce.or.jp/branch/seibu/03_study/r_07kenkyu.html](https://www.jsce.or.jp/branch/seibu/03_study/r_07kenkyu.html)**  
-👤<u>Authors</u>: 波多野章博, **<u>凌国明</u>**, 浅井光輝.  
-🔑<u>Keywords</u>: 不連続ガラーキン法, 浅水長波流れ.
+<u>[CC003]</u>. **"建物倒壊を考慮した浅水長波流れ解析."**  
+**第23回計算工学会講演会**, ウインクあいち, 愛知県名古屋市, Japan, B-10-03, 2018.6.8. **[https://www.jsces.org/koenkai/23/index.html](https://www.jsces.org/koenkai/23/index.html)**  
+👤<u>Authors</u>: 金澤功樹, **<u>凌国明</u>**, 大川博史，樫山和男.  
+🔑<u>Keywords</u>: 浅水長波流れ.
+
+<u>[CC002]</u>. **"移動境界処理を考慮したDG有限要素法に基づく浅水長波流れ解析."**  
+**第22回計算工学会講演会**, ソニックシティ, 埼玉県, Japan, B-10-3, 2017.6.2. **[https://www.jsces.org/koenkai/22/](https://www.jsces.org/koenkai/22/)**  
+👤<u>Authors</u>: 伊藤翔, **<u>凌国明</u>**, 花澤広貴，樫山和男.  
+🔑<u>Keywords</u>: DG有限要素法.
+
+<u>[CC001]</u>. **"LESに基づく安定化有限要素法を用いた自由表面流れの精度検証."**  
+**第20回計算工学講演会**, つくば国際会議場, Japan, A-4-1, 2015.6.8.  
+👤<u>Authors</u>: 太田真貴子, **<u>凌国明</u>**, 樫山和男.  
+🔑<u>Keywords</u>: VOF法, 有限要素法, LES, 自由表面流れ.
