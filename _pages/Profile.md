@@ -39,5 +39,5 @@ Certifications
 </h2>
 
 - 2019.07.22--2019.07.26: Certificate of Completion, completed the Waves Summer School presented at the University of Maryland, College Park, U.S.A.
-- 2014.03.22--2014.03.23: Certificate of Attendance, Computational Fluid-Structure Interaction, Tokyo, Japan.
+- 2014.03.22--2014.03.23: Certificate of Attendance, Computational Fluid-Structure Interaction short course in Tokyo, Japan.
 
