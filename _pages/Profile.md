@@ -30,7 +30,7 @@ Professional Experience
 Awards
 </h2>
 
-- 2015.03.18: Ibaraki Tatsuo Academic Encouragement Award, 茨木龍雄学術奨励賞（中央大学）.
+- 2015.03.18: Ibaraki Tatsuo Academic Encouragement Award (茨木龍雄学術奨励賞), Chuo University.
 - 2012.10--2018.3: Japanese Government Scholarship, the Government of Japan’s Ministry of Education, Culture, Sports, Science and Technology (MEXT).
 
 <h2 id="ce">
