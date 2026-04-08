@@ -30,7 +30,7 @@ Professional Experience
 Awards
 </h2>
 
-- 2025.10: Support for Article Processing Charge of International Academic Papers (国際学術論文掲載料支援, Top10％ Journal), Tokuo Fujii Research Fund, Kyushu University. (¥669,875)
+- 2025.10: Support for Article Processing Charge of International Academic Papers (国際学術論文掲載料支援, Top10％ Journal), Tokuo Fujii Research Fund, Kyushu University. #(¥669,875)
 - 2015.03.18: Ibaraki Tatsuo Academic Encouragement Award (茨木龍雄学術奨励賞), Chuo University.
 - 2012.10--2018.3: Japanese Government Scholarship, the Government of Japan’s Ministry of Education, Culture, Sports, Science and Technology (MEXT).
 
