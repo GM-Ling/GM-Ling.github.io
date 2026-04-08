@@ -49,7 +49,7 @@ Peer-reviewed Journal Articles
 🔑<u>Keywords</u>: Boundary layer dissipation.
 
 <u>[PJ003]</u>. **"2D-3Dハイブリッド津波解析手法の精度及び大規模化に関する検討."**  
-**土木学会論文集A2（応用力学）**, Volume 73, Issue 2, p. I\_387--I\_396, 2016.6. **[https://doi.org/10.2208/jscejam.73.I_387](https://doi.org/10.2208/jscejam.73.I_387)**  
+**土木学会論文集A2（応用力学）**, Volume 73, Issue 2, p. I\_387--I\_396, 2017.6. **[https://doi.org/10.2208/jscejam.73.I_387](https://doi.org/10.2208/jscejam.73.I_387)**  
 👤<u>Authors</u>: **<u>凌 国明*</u>**, 松本 純一, 樫山 和男.  
 🔑<u>Keywords</u>: 2D-3D parallel computing, free surface flow, phase-field model, Allen-Cahn equation, mass conservation.
 
