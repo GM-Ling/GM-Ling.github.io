@@ -11,10 +11,10 @@ author_profile: true
 Education
 </h2>
 
-- 2015.04--2018.03: Ph.D. in Engineering, Civil and Environmental Engineering, Chuo University, Japan (MEXT Scholarship)  
-- 2013.04--2015.03: Master of Engineering, Civil and Environmental Engineering, Chuo University, Japan (MEXT Scholarship)
-- 2012.10--2013.03: Research Student, Civil and Environmental Engineering, Chuo University, Japan (MEXT Scholarship)
-- 2012.10--2013.03: Japanese Language Program, The Asian Students Cultural Association, Tokyo, Japan (MEXT Scholarship)
+- 2015.04--2018.03: Ph.D. in Engineering, Civil and Environmental Engineering, Chuo University, Japan  
+- 2013.04--2015.03: Master of Engineering, Civil and Environmental Engineering, Chuo University, Japan
+- 2012.10--2013.03: Research Student, Civil and Environmental Engineering, Chuo University, Japan
+- 2012.10--2013.03: Japanese Language Program, The Asian Students Cultural Association, Tokyo, Japan
 - 2008.09--2012.06: Bachelor of Engineering, Civil Engineering, Sichuan Unversity, China
 
 <h2 id="pe">
@@ -38,5 +38,6 @@ Awards
 Certifications
 </h2>
 
-- 2019.07.22--2019.07.26: Certificate of Completion, completed the Waves Summer School presented at the University of Maryland, College Park, USA.
+- 2019.07.22--2019.07.26: Certificate of Completion, completed the Waves Summer School presented at the University of Maryland, College Park, U.S.A.
+- 2014.03.22--2014.03.23: Certificate of Attendance, Computational Fluid-Structure Interaction, Tokyo, Japan.
 
