@@ -182,17 +182,17 @@ Co-Author
 🔑<u>Keywords</u>: Storm surge simulation.
 
 <u>[CC007]</u>. **"Global Extratropical Surge and Tide Operational Forecast System (Global ESTOFS): Upgrade to Version Two and Future Development."**  
-**2022 AMS Annual Meeting**, virtually, 2022.1.   
+**2022 AMS Annual Meeting**, virtual, 2022.1.   
 👤<u>Authors</u>: Greg Seroka, Yuji Funakoshi, Michael Lalime, Saeed Moghimi, **<u>Guoming Ling</u>**, Maria Teresa Contreras-Vargas, William James Pringle, Coleman Blakely, Joannes Westerink, Edward Myers.  
 🔑<u>Keywords</u>: Storm surge simulation.
 
 <u>[CC006]</u>. **"Dissipation Processes in an Unstructured Mesh Global Tidal Model."**  
-**2022 AMS Annual Meeting**, virtually, 2022.1.   
+**2022 AMS Annual Meeting**, virtual, 2022.1.   
 👤<u>Authors</u>: Coleman Blakely, **<u>Guoming Ling</u>**, William James Pringle, Maria Teresa Contreras-Vargas, Damrongsak Wirasaet, Joannes Westerink, Saeed Moghimi, Greg Seroka, Lei Shi.  
 🔑<u>Keywords</u>: Storm surge simulation.
 
 <u>[CC005]</u>. **"An Update on the Recent Coastal Ocean Modeling Infrastructure Development at NOAA's Office of Coast Survey."**  
-**2022 AMS Annual Meeting**, virtually, 2022.1.   
+**2022 AMS Annual Meeting**, virtual, 2022.1.   
 👤<u>Authors</u>: Saeed Moghimi, Yuji Funakoshi, Soroosh Mani, Gregory Seroka, Panagiotis Velissariou, Zachary Burnett, William James Pringle, Zizang Yang, Edward Myers, Shachak Pe'eri, Khachik Sargsyan, Joannes Westerink, Maria Teresa Contreras-Vargas, **<u>Guoming Ling</u>**, Coleman Blakely, Yinglong Joseph Zhang, Carsten Lemmen, Linlin Cui, Jaime Calzada, Jesse Lopez, Jianhua Qi, Changsheng Chen, Rocky Dunlap, Ali Abdolali, Andre Jaco van der Westhuysen, Ayumi Fujisaki-Manome, Tim MacLaughlin, Leland Snyder, Tim Cockerill, Joe Stubbs, Cody Hammock.  
 🔑<u>Keywords</u>: Storm surge simulation.
 
