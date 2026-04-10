@@ -151,29 +151,49 @@ Domestic Conferences
 Co-Author
 </h2>
 
-<u>[CC009]</u>. **"不連続ガラーキン法による二次元浅水長波流れを対象とした河川氾濫解析."**  
+<u>[CC013]</u>. **"不連続ガラーキン法による二次元浅水長波流れを対象とした河川氾濫解析."**  
 **令和7年度土木学会西部支部研究発表会**, 九州産業大学, 福岡市, Japan, I-10, 2026.03.07. **[https://www.jsce.or.jp/branch/seibu/03_study/r_07kenkyu.html](https://www.jsce.or.jp/branch/seibu/03_study/r_07kenkyu.html)**  
 👤<u>Authors</u>: 波多野章博, **<u>凌国明</u>**, 浅井光輝.  
 🔑<u>Keywords</u>: 不連続ガラーキン法, 浅水長波流れ.
 
-<u>[CC008]</u>. **"Total Water Level Twelve Year Hindcast Validation of STOFS-2D-Global, NOAA's Fast Integrated Global Multi-Scale Multi-Process Operational Water Level Model."**  
+<u>[CC012]</u>. **"Total Water Level Twelve Year Hindcast Validation of STOFS-2D-Global, NOAA's Fast Integrated Global Multi-Scale Multi-Process Operational Water Level Model."**  
 **104th Annual AMS Meeting 2024**, Baltimore, Maryland, 2024.1.   
 👤<u>Authors</u>: Joannes J Westerink, Coleman Blakely, Maria Teresa Contreras, **<u>Guoming Ling</u>**, Damrongsak Wirasaet, Albert R Cerrone, Dylan Wood, Aman Tejaswi, William James Pringle, Zach Cobell, Shintaro Bunya, Rick Luettich, Edward Myers, Saeed Moghimi, Gregory Seroka, Yuji Funakoshi, Liujuan Tang, Lei Shi, Kendra M Dresback, Christine M Szpilka, Randall L Kolar, Margaret B Owensby, Chris Massey.  
 🔑<u>Keywords</u>: Storm surge simulation.
 
-<u>[CC007]</u>. **"Advanced Sea Ice Modeling for Integration into a Storm-Surge, Wave, and Ice Forecasting System for Alaska's Coast."**  
+<u>[CC011]</u>. **"Advanced Sea Ice Modeling for Integration into a Storm-Surge, Wave, and Ice Forecasting System for Alaska's Coast."**  
 **104th Annual AMS Meeting 2024**, Baltimore, Maryland, 2024.1.   
 👤<u>Authors</u>: Ayumi Fujisaki-Manome, Haoguo Hu, Jia Wang, Joannes Westerink, Damrongsak Wirasaet, **<u>Guoming Ling</u>**, Mindo Choi, Saeed Moghimi, Edward Myers, Ali Abdolali, Andre Jaco Van der Westhuysen, Kyle Steffan, Clint Dawson, Carol Janzen, Rob Bochenek, Jesse Lopez, Ali Abdolali.  
 🔑<u>Keywords</u>: Storm surge simulation.
 
-<u>[CC006]</u>. **"An ESMF/NUOPC Coupling Infrastructure to support Coastal Ocean Modeling: Update and outlook."**  
+<u>[CC010]</u>. **"Dissipation Mechanisms in an Unstructured Global Tidal Model."**  
+**AGU Fall Meeting 2022**, Chicago and online everywhere, 2022.12.   
+👤<u>Authors</u>: Joannes J Westerink, Coleman Blakely, María Teresa Contreras Vargas, **<u>Guoming Ling</u>**, Damrongsak Wirasaet, William Pringle, Edward Payson Myers, Saeed Moghimi, Gregory N Seroka, Yuji Funakoshi, Lei Shi.  
+🔑<u>Keywords</u>: Storm surge simulation.
+
+<u>[CC009]</u>. **"An ESMF/NUOPC Coupling Infrastructure to support Coastal Ocean Modeling: Update and outlook."**  
 **AGU Fall Meeting 2022**, Chicago and online everywhere, 2022.12.   
 👤<u>Authors</u>: Saeed Moghimi, Panagiotis Velissariou, Andre Jaco Van der Westhuysen, Edward Payson Myers, Ali Abdolali, Avichal Mehra, Rocky Dunlap, **<u>Guoming Ling</u>**, Damrongsak Wirasaet, Joannes J Westerink, Ayumi Fujisaki-Manome, Yinglong J Zhang, Carsten Lemmen, Qi Jianhua, Changsheng Chen, Jason Ducker, Julio Zyserman, Shachak Peeri.  
 🔑<u>Keywords</u>: Storm surge simulation.
 
-<u>[CC005]</u>. **"Understanding the Coupled Effect of Upland Hydrology and Ocean Hydrodynamics During Extreme Events Along the East and Gulf of Mexico Coasts of the US."**  
+<u>[CC008]</u>. **"Understanding the Coupled Effect of Upland Hydrology and Ocean Hydrodynamics During Extreme Events Along the East and Gulf of Mexico Coasts of the US."**  
 **AGU Fall Meeting 2022**, Chicago and online everywhere, 2022.12.   
 👤<u>Authors</u>: María Teresa Contreras Vargas, Damrongsak Wirasaet, **<u>Guoming Ling</u>**, Coleman Blakely, Joannes J Westerink, Kendra M Dresback, Christine Szpilka, Edward Payson Myers, Saeed Moghimi, Gregory N Seroka, Yuji Funakoshi, Lei Shi, Eirik Valseth, Clint Dawson, Christopher Massey, Margaret B Owensby.  
+🔑<u>Keywords</u>: Storm surge simulation.
+
+<u>[CC007]</u>. **"Global Extratropical Surge and Tide Operational Forecast System (Global ESTOFS): Upgrade to Version Two and Future Development."**  
+**2022 AMS Annual Meeting**, virtually, 2022.1.   
+👤<u>Authors</u>: Greg Seroka, Yuji Funakoshi, Michael Lalime, Saeed Moghimi, **<u>Guoming Ling</u>**, Maria Teresa Contreras-Vargas, William James Pringle, Coleman Blakely, Joannes Westerink, Edward Myers.  
+🔑<u>Keywords</u>: Storm surge simulation.
+
+<u>[CC006]</u>. **"Dissipation Processes in an Unstructured Mesh Global Tidal Model."**  
+**2022 AMS Annual Meeting**, virtually, 2022.1.   
+👤<u>Authors</u>: Coleman Blakely, **<u>Guoming Ling</u>**, William James Pringle, Maria Teresa Contreras-Vargas, Damrongsak Wirasaet, Joannes Westerink, Saeed Moghimi, Greg Seroka, Lei Shi.  
+🔑<u>Keywords</u>: Storm surge simulation.
+
+<u>[CC005]</u>. **"An Update on the Recent Coastal Ocean Modeling Infrastructure Development at NOAA's Office of Coast Survey."**  
+**2022 AMS Annual Meeting**, virtually, 2022.1.   
+👤<u>Authors</u>: Saeed Moghimi, Yuji Funakoshi, Soroosh Mani, Gregory Seroka, Panagiotis Velissariou, Zachary Burnett, William James Pringle, Zizang Yang, Edward Myers, Shachak Pe'eri, Khachik Sargsyan, Joannes Westerink, Maria Teresa Contreras-Vargas, **<u>Guoming Ling</u>**, Coleman Blakely, Yinglong Joseph Zhang, Carsten Lemmen, Linlin Cui, Jaime Calzada, Jesse Lopez, Jianhua Qi, Changsheng Chen, Rocky Dunlap, Ali Abdolali, Andre Jaco van der Westhuysen, Ayumi Fujisaki-Manome, Tim MacLaughlin, Leland Snyder, Tim Cockerill, Joe Stubbs, Cody Hammock.  
 🔑<u>Keywords</u>: Storm surge simulation.
 
 <u>[CC004]</u>. **"Development of the Alaska Coastal Ocean Forecast System ALCOFS."**  
