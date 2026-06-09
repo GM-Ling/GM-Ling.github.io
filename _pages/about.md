@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Researcher in computational mechanics, with interests in tsunami simulation, coastal hydrodynamics, fluid-structure interaction, and riverbed evolution using discontinuous Galerkin methods.
+Researcher in computational mechanics, with interests in tsunami simulation, coastal hydrodynamics, fluid-structure interaction, and riverbed evolution.
 
 **1.** **2D-3D Hybrid model + Fluid-Structure Interaction simulation:** [**[PJ005](https://gm-ling.github.io/Research%20Publications)**]. 
 
