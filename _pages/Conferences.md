@@ -151,6 +151,11 @@ Domestic Conferences
 Co-Author
 </h2>
 
+<u>[CC015]</u>. **"不連続ガラーキン法による河川氾濫解析に向けた基礎検討."**  
+**令和8年度土木学会全国大会 第81回年次学術講演会**, 北海学園大学, 北海道, Japan, CS5-24, 2026.09.03. **[https://pub.confit.atlas.jp/ja/event/jsce2026](https://pub.confit.atlas.jp/ja/event/jsce2026)**, <span style="color: red;"><strong>Coming soon</strong></span>  
+👤<u>Authors</u>: 波多野章博, **<u>凌国明</u>**, 田中聖三, 浅井光輝.  
+🔑<u>Keywords</u>: 不連続ガラーキン法, 浅水長波流れ.
+
 <u>[CC014]</u>. **"不連続ガラーキン法による二次元浅水長波流れを対象とした河川氾濫解析."**  
 **令和7年度土木学会西部支部研究発表会**, 九州産業大学, 福岡市, Japan, I-10, 2026.03.07. **[https://www.jsce.or.jp/branch/seibu/03_study/r_07kenkyu.html](https://www.jsce.or.jp/branch/seibu/03_study/r_07kenkyu.html)**  
 👤<u>Authors</u>: 波多野章博, **<u>凌国明</u>**, 浅井光輝.  
