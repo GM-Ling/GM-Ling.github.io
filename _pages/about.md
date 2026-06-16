@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Researcher in computational mechanics, with interests in tsunami simulation, coastal hydrodynamics, fluid-structure interaction, and riverbed evolution.
+My research focuses on computational mechanics and numerical modeling of coastal, ocean, and riverine hazards, including tsunamis, storm surges, shallow-water flows, and river morphodynamics. I develop and apply finite element, discontinuous Galerkin, and hybrid FCM–FEM models for large-scale and multiscale simulations. Recent projects include global tsunami modeling with ADCIRC, coastal hazard assessment, morphodynamic analysis of river systems, and fluid–structure interaction simulations involving free-surface and multiphase flows.
 
 **1.** **2D-3D Hybrid model + Fluid-Structure Interaction simulation:** [**[PJ005](https://gm-ling.github.io/Research%20Publications)**]. 
 
