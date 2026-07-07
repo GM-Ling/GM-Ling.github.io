@@ -19,7 +19,7 @@ Peer-reviewed Journal Articles
 🔑<u>Keywords</u>: Discontinuous Galerkin method, Shallow water equations, Exner equation, Riverbed evolution, Secondary flow modeling, No-normal flow boundary condition.
 
 <u>[PJ009]</u>. **"FCM-FEM hybrid scheme equipped with a ghost element coupler for liquid-gas-solid three phase simulation."**  
-**Computational Mechanics**, 2025.11.3. **[https://doi.org/10.1007/s00466-025-02709-y](https://doi.org/10.1007/s00466-025-02709-y)**  
+**Computational Mechanics**, Volume 77, pages 1327–1354, 2025.11.3. **[https://doi.org/10.1007/s00466-025-02709-y](https://doi.org/10.1007/s00466-025-02709-y)**  
 👤<u>Authors</u>: **<u>Guoming Ling*</u>**, Mitsuteru Asai and Kenjiro Terada.  
 🔑<u>Keywords</u>: Fluid–structure interaction, Finite cover method, Two-phase flow, Ghost element, Strong coupling.
 
