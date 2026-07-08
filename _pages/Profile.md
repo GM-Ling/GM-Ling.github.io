@@ -45,3 +45,9 @@ Certifications
 - 2014.08.23: Certificate of Japanese-Language Proficiency, Level N1, Registration No. 131210486.
 - 2014.03.22--2014.03.23: Certificate of Attendance, Computational Fluid-Structure Interaction short course in Tokyo, Japan.
 
+<div style="font-size: 0.9em; color: #666; margin-top: 20px;">
+  Page views:
+  <img
+    src="https://hits.sh/gm-ling.github.io.svg?label=Visitors&color=555555&labelColor=eeeeee"
+    alt="visitor counter">
+</div>
