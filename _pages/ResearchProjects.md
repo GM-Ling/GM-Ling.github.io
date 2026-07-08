@@ -16,5 +16,10 @@ Research grants
 
 <u>[RG001]</u>. **Seamless Coupling of Fluid and Structural Analyses with Different Descriptions for Disaster Mitigation Applications (記述方法の異なる流体と構造解析のシームレスな連成解析と減災への利活用)**, Japan Society for the Promotion of Science (JSPS), Grant-in-Aid for Early-Career Scientists (若手研究), No. 25K21214, 2025.4.1--2028.3.31. **Ling (Kyushu U. Lead PI)** (¥4,550,000)   
 
-
+<div style="font-size: 0.9em; color: #666; margin-top: 20px;">
+  Page views:
+  <img
+    src="https://hits.sh/gm-ling.github.io.svg?label=Visitors&color=555555&labelColor=eeeeee"
+    alt="visitor counter">
+</div>
 
