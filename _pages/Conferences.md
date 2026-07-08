@@ -225,3 +225,10 @@ Co-Author
 **第20回計算工学講演会**, つくば国際会議場, Japan, A-4-1, 2015.6.8.  
 👤<u>Authors</u>: 太田真貴子, **<u>凌国明</u>**, 樫山和男.  
 🔑<u>Keywords</u>: VOF法, 有限要素法, LES, 自由表面流れ.
+
+<div style="font-size: 0.9em; color: #666; margin-top: 20px;">
+  Page views:
+  <img
+    src="https://hits.sh/gm-ling.github.io.svg?label=Visitors&color=555555&labelColor=eeeeee"
+    alt="visitor counter">
+</div>
