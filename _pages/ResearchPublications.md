@@ -73,3 +73,9 @@ Preprint
 👤<u>Authors</u>: **<u>Guoming Ling*</u>**, Damrongsak Wirasaet, Joannes Westerink, Maria Teresa Contreras Vargas, Mindo Choi, William Pringle, Coleman Blakely, David Richter, Ali Abdolali, Andre van der Westhuysen, Kyle Steffen, Clint Dawson, Ayumi Fujisaki-Manome, Jia Wang, Edward Myers, Saeed Moghimi, Carol Janzen, Rob Bochenek and Jesse Lopez.  
 🔑<u>Keywords</u>: Storm surge, sea ice, Wind wave, Forecasting system, Tide.
 
+<div style="font-size: 0.9em; color: #666; margin-top: 20px;">
+  Page views:
+  <img
+    src="https://hits.sh/gm-ling.github.io.svg?label=Visitors&color=555555&labelColor=eeeeee"
+    alt="visitor counter">
+</div>
