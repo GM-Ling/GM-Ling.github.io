@@ -30,3 +30,10 @@ Guoming Ling, Mitsuteru Asai and Kenjiro Terada, FCM-FEM hybrid scheme equipped 
 **4.1. Alaska Coastal Ocean Forecast System - Regional (ALCOFS-R) [https://gm-ling.github.io/ALCOFS-R/](https://gm-ling.github.io/ALCOFS-R/)**
 
 **4.2. GESTOFS [https://gm-ling.github.io/GESTOFS-develop/](https://gm-ling.github.io/GESTOFS-develop/)**
+
+<div style="font-size: 0.9em; color: #666; margin-top: 20px;">
+  Page views:
+  <img
+    src="https://hits.sh/gm-ling.github.io.svg?label=Visitors&color=555555&labelColor=eeeeee"
+    alt="visitor counter">
+</div>
