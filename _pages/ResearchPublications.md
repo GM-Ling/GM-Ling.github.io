@@ -13,10 +13,15 @@ author_profile: true
 Peer-reviewed Journal Articles
 </h2>
 
-<u>[PJ010]</u>. **"A depth-averaged quasi-two-phase morphodynamic model using a discontinuous Galerkin method with an orthogonal bubble function."**  
+<u>[PJ011]</u>. **"A depth-averaged quasi-two-phase morphodynamic model using a discontinuous Galerkin method with an orthogonal bubble function."**  
 **Water Resources Research**, <span style="color: red;"><strong>in revision</strong></span>.  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Reo Matsumoto, Seizo Tanaka, Mitsuteru Asai*,	Damrongsak Wirasaet and Joannes Westerink.  
 🔑<u>Keywords</u>: Discontinuous Galerkin method, Shallow water equations, Exner equation, Riverbed evolution, Secondary flow modeling, No-normal flow boundary condition.
+
+<u>[PJ010]</u>. **"Deterministic and Probabilistic Analyses of Hurricane Ian (2022) with STOFS-2D-Global."**  
+**Weather and Forecasting**, Volumn 41, Issue 8, pages 1551-1570, 2026.08. **[https://doi.org/10.1175/WAF-D-25-0012.1](https://doi.org/10.1175/WAF-D-25-0012.1)**  
+👤<u>Authors</u>: Albert R. Cerrone, Dylan Wood, Benjamin Pachev, Maria Teresa Contreras-Vargas, Aman Tejaswi, Damrongsak Wirasaet, Coleman P. Blakely, **Guoming Ling**, Hendrik L. Tolman, Richard A. Luettich, Shintaro Bunya, Zachary Cobell, Eirik Valseth, Clint Dawson, Andrew T. Cox, Fariborz Daneshvar, Greg N. Seroka, Saeed Moghimi, Edward P. Myers, Joannes J. Westerink. 
+🔑<u>Keywords</u>: Storm surges, Ensembles, Ocean models.
 
 <u>[PJ009]</u>. **"FCM-FEM hybrid scheme equipped with a ghost element coupler for liquid-gas-solid three phase simulation."**  
 **Computational Mechanics**, Volume 77, pages 1327–1354, 2025.11.3. **[https://doi.org/10.1007/s00466-025-02709-y](https://doi.org/10.1007/s00466-025-02709-y)**  
