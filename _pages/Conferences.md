@@ -150,6 +150,10 @@ Domestic Conferences
 <h2 id="cc">
 Co-Author
 </h2>
+<u>[CC016]</u>. **"不連続ガラーキン法による浅水流と底面変形の連成解析に関する基礎検討."**  
+**日本機械学会 第39回 計算力学講演会（CMD2026)**, 大阪工業大学, 大阪, Japan, OS3-7, 2026.09.14. **[https://www.jsme.or.jp/conference/cmdconf26/](https://www.jsme.or.jp/conference/cmdconf26/)**, <span style="color: red;"><strong>Coming soon</strong></span>  
+👤<u>Authors</u>: 波多野章博, **<u>凌国明</u>**, 田中聖三, 浅井光輝.  
+🔑<u>Keywords</u>: 不連続ガラーキン法, 浅水長波流れ.
 
 <u>[CC015]</u>. **"不連続ガラーキン法による河川氾濫解析に向けた基礎検討."**  
 **令和8年度土木学会全国大会 第81回年次学術講演会**, 北海学園大学, 北海道, Japan, CS5-24, 2026.09.03. **[https://pub.confit.atlas.jp/ja/event/jsce2026](https://pub.confit.atlas.jp/ja/event/jsce2026)**, <span style="color: red;"><strong>Coming soon</strong></span>  
