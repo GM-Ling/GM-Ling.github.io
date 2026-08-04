@@ -150,6 +150,7 @@ Domestic Conferences
 <h2 id="cc">
 Co-Author
 </h2>
+
 <u>[CC016]</u>. **"不連続ガラーキン法による浅水流と底面変形の連成解析に関する基礎検討."**  
 **日本機械学会 第39回 計算力学講演会（CMD2026)**, 大阪工業大学, 大阪, Japan, OS3-7, 2026.09.14. **[https://www.jsme.or.jp/conference/cmdconf26/](https://www.jsme.or.jp/conference/cmdconf26/)**, <span style="color: red;"><strong>Coming soon</strong></span>  
 👤<u>Authors</u>: 波多野章博, **<u>凌国明</u>**, 田中聖三, 浅井光輝.  
