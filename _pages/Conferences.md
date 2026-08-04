@@ -14,7 +14,7 @@ International Conferences
 </h2>
 
 <u>[IC012]</u>. **"A Discontinuous Galerkin Morphodynamic Model with Orthogonal Bubble Function Boundary Treatment for River Flows."**  
-**WCCM–ECCOMAS 2026**, Munich, Germany, 2026.7.23. **[https://wccm-eccomas2026.org/](https://wccm-eccomas2026.org/)**,
+**WCCM–ECCOMAS 2026**, Munich, Germany, 2026.7.23. **[https://wccm-eccomas2026.org/](https://wccm-eccomas2026.org/)**  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Reo Matsumoto, Seizo Tanaka, Mitsuteru Asai, Akimitsu Shiraishi and Yuki Takase.  
 🔑<u>Keywords</u>: Discontinuous Galerkin method, Shallow water equations, Exner equation, Riverbed evolution, Secondary flow modeling, No-normal flow boundary condition.
 
