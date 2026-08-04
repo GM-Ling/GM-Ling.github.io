@@ -20,7 +20,7 @@ Peer-reviewed Journal Articles
 
 <u>[PJ010]</u>. **"Deterministic and Probabilistic Analyses of Hurricane Ian (2022) with STOFS-2D-Global."**  
 **Weather and Forecasting**, Volumn 41, Issue 8, pages 1551-1570, 2026.08. **[https://doi.org/10.1175/WAF-D-25-0012.1](https://doi.org/10.1175/WAF-D-25-0012.1)**  
-👤<u>Authors</u>: Albert R. Cerrone, Dylan Wood, Benjamin Pachev, Maria Teresa Contreras-Vargas, Aman Tejaswi, Damrongsak Wirasaet, Coleman P. Blakely, **Guoming Ling**, Hendrik L. Tolman, Richard A. Luettich, Shintaro Bunya, Zachary Cobell, Eirik Valseth, Clint Dawson, Andrew T. Cox, Fariborz Daneshvar, Greg N. Seroka, Saeed Moghimi, Edward P. Myers, Joannes J. Westerink. 
+👤<u>Authors</u>: Albert R. Cerrone, Dylan Wood, Benjamin Pachev, Maria Teresa Contreras-Vargas, Aman Tejaswi, Damrongsak Wirasaet, Coleman P. Blakely, **Guoming Ling**, Hendrik L. Tolman, Richard A. Luettich, Shintaro Bunya, Zachary Cobell, Eirik Valseth, Clint Dawson, Andrew T. Cox, Fariborz Daneshvar, Greg N. Seroka, Saeed Moghimi, Edward P. Myers, Joannes J. Westerink.  
 🔑<u>Keywords</u>: Storm surges, Ensembles, Ocean models.
 
 <u>[PJ009]</u>. **"FCM-FEM hybrid scheme equipped with a ghost element coupler for liquid-gas-solid three phase simulation."**  
