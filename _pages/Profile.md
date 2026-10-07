@@ -21,10 +21,10 @@ Education
 Professional Experience
 </h2>
 
-- 2025.02--present: Assistant Professor, Disaster Risk Reduction Research Center, Faculty of Engineering, Kyushu University, Japan.(Host Professor: 浅井　光輝)
-- 2022.11--2025.01: Assistant Professor, International Research Institute of Disaster Science (IRIDeS), Tohoku University, Japan.(Host Professor: 寺田　賢二郎)
+- 2025.02--present: Assistant Professor, Disaster Risk Reduction Research Center, Faculty of Engineering, Kyushu University, Japan.(Host Professor: 浅井　光輝　教授)
+- 2022.11--2025.01: Assistant Professor, International Research Institute of Disaster Science (IRIDeS), Tohoku University, Japan.(Host Professor: 寺田　賢二郎　教授)
 - 2019.03--2022.10: Postdoctoral Research Associate, Computational Hydraulics Laboratory, University of Notre Dame, U.S.A..(Supervisor: Prof. Joannes Westerink)
-- 2018.04--2019.02: Full-time Researcher, Research and Development Initiative, Chuo University, Japan.(Supervisor: 樫山　和男)
+- 2018.04--2019.02: Full-time Researcher, Research and Development Initiative, Chuo University, Japan.(Supervisor: 樫山　和男　教授)
 
 <h2 id="aw">
 Awards
