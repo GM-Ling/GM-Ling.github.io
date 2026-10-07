@@ -11,9 +11,9 @@ author_profile: true
 Education
 </h2>
 
-- 2015.04--2018.03: Ph.D. in Engineering, Civil and Environmental Engineering, Chuo University, Japan  
-- 2013.04--2015.03: Master of Engineering, Civil and Environmental Engineering, Chuo University, Japan
-- 2012.10--2013.03: Research Student, Civil and Environmental Engineering, Chuo University, Japan
+- 2015.04--2018.03: Ph.D. in Engineering, Civil and Environmental Engineering, Chuo University, Japan (Supervisor: 樫山　和男　教授) 
+- 2013.04--2015.03: Master of Engineering, Civil and Environmental Engineering, Chuo University, Japan (Supervisor: 樫山　和男　教授)
+- 2012.10--2013.03: Research Student, Civil and Environmental Engineering, Chuo University, Japan (Supervisor: 山田　正　教授)
 - 2012.10--2013.03: Japanese Language Program, The Asian Students Cultural Association, Tokyo, Japan
 - 2008.09--2012.06: Bachelor of Engineering, Civil Engineering, Sichuan Unversity, China
 
@@ -21,10 +21,10 @@ Education
 Professional Experience
 </h2>
 
-- 2025.02--present: Assistant Professor, Disaster Risk Reduction Research Center, Faculty of Engineering, Kyushu University, Japan.
-- 2022.11--2025.01: Assistant Professor, International Research Institute of Disaster Science (IRIDeS), Tohoku University, Japan.
-- 2019.03--2022.10: Postdoctoral Research Associate, Computational Hydraulics Laboratory, University of Notre Dame, U.S.A..
-- 2018.04--2019.02: Full-time Researcher, Research and Development Initiative, Chuo University, Japan.
+- 2025.02--present: Assistant Professor, Disaster Risk Reduction Research Center, Faculty of Engineering, Kyushu University, Japan.(Host Professor: 浅井　光輝)
+- 2022.11--2025.01: Assistant Professor, International Research Institute of Disaster Science (IRIDeS), Tohoku University, Japan.(Host Professor: 寺田　賢二郎)
+- 2019.03--2022.10: Postdoctoral Research Associate, Computational Hydraulics Laboratory, University of Notre Dame, U.S.A..(Supervisor: Prof. Joannes Westerink)
+- 2018.04--2019.02: Full-time Researcher, Research and Development Initiative, Chuo University, Japan.(Supervisor: 樫山　和男)
 
 <h2 id="aw">
 Awards
