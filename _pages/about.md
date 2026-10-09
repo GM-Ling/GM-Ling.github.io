@@ -11,7 +11,7 @@ My research focuses on computational mechanics and numerical modeling of coastal
 
 **1.** **2D-3D Hybrid model + Fluid-Structure Interaction simulation:** [**[PJ005](https://gm-ling.github.io/Research%20Publications)**]. 
 
-Ling G, Matsumoto J, Kashiyama K. A two-way coupling 2D-3D hybrid finite element numerical model using overlapping method for tsunami simulation. Int J Numer Meth Fluids. 2023;95(11):1732–1755. doi: 10.1002/fld.5220
+Ling G, Matsumoto J, Kashiyama K. A two-way coupling 2D-3D hybrid finite element numerical model using overlapping method for tsunami simulation. Int J Numer Meth Fluids. 2023;95(11):1732–1755. doi: [10.1002/fld.5220](https://doi.org/10.1002/fld.5220)
 
 ![FSI simulation](/images/2D-3D-FSI.gif)
 
@@ -23,7 +23,7 @@ Guoming Ling, Mitsuteru Asai and Kenjiro Terada, FCM-FEM hybrid scheme equipped 
 
 **3.** **Whole Global Tsunami Simulation:** [**[DC014](https://gm-ling.github.io/Conferences)**]. 
 
-Guoming Ling, Damrongsak Wirasaet, Joannes J. Westerink, Mitsuteru Asai, Global Tsunami Simulation of the 2011 Tohoku Event with ADCIRC: Source Model Comparison and Accuracy Assessment, Proceedings of the 31st JSCES Conference on Computational Engineering and Science, Vol. 31, June 2026.  DOI: [10.13140/RG.2.2.16642.64962](https://doi.org/10.13140/RG.2.2.16642.64962)
+Guoming Ling, Damrongsak Wirasaet, Joannes J. Westerink, Mitsuteru Asai, Global Tsunami Simulation of the 2011 Tohoku Event with ADCIRC: Source Model Comparison and Accuracy Assessment, Proceedings of the 31st JSCES Conference on Computational Engineering and Science, Vol. 31, June 2026.  doi: [10.13140/RG.2.2.16642.64962](https://doi.org/10.13140/RG.2.2.16642.64962)
 
 ![Global Tsunami Simulation](/images/zeta_less1day.gif)
 
