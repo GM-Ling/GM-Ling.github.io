@@ -17,13 +17,13 @@ Ling G, Matsumoto J, Kashiyama K. A two-way coupling 2D-3D hybrid finite element
 
 **2.** **Fluid-Structure Interaction simulation:** [**[RG001](https://gm-ling.github.io/Research%20Projects/)**], [**[PJ009](https://gm-ling.github.io/Research%20Publications)**]. 
 
-Guoming Ling, Mitsuteru Asai and Kenjiro Terada, FCM-FEM hybrid scheme equipped with a ghost element coupler for liquid–gas–solid three phase simulation. Computational Mechanics, Vol.77, pages 1327–1354 (2026). doi: 10.1007/s00466-025-02709-y
+Guoming Ling, Mitsuteru Asai and Kenjiro Terada, FCM-FEM hybrid scheme equipped with a ghost element coupler for liquid–gas–solid three phase simulation. Computational Mechanics, Vol.77, pages 1327–1354 (2026). doi: [10.1007/s00466-025-02709-y](https://doi.org/10.1007/s00466-025-02709-y)
 
 ![FSI simulation](/images/phi1s.gif)
 
 **3.** **Whole Global Tsunami Simulation:** [**[DC014](https://gm-ling.github.io/Conferences)**]. 
 
-Guoming Ling, Damrongsak Wirasaet, Joannes J. Westerink, Mitsuteru Asai, Global Tsunami Simulation of the 2011 Tohoku Event with ADCIRC: Source Model Comparison and Accuracy Assessment, Proceedings of the 31st JSCES Conference on Computational Engineering and Science, Vol. 31, June 2026.  DOI: 10.13140/RG.2.2.16642.64962
+Guoming Ling, Damrongsak Wirasaet, Joannes J. Westerink, Mitsuteru Asai, Global Tsunami Simulation of the 2011 Tohoku Event with ADCIRC: Source Model Comparison and Accuracy Assessment, Proceedings of the 31st JSCES Conference on Computational Engineering and Science, Vol. 31, June 2026.  DOI: [10.13140/RG.2.2.16642.64962](https://doi.org/10.13140/RG.2.2.16642.64962)
 
 ![Global Tsunami Simulation](/images/zeta_less1day.gif)
 
