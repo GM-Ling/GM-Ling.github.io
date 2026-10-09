@@ -17,7 +17,7 @@ Ling G, Matsumoto J, Kashiyama K. A two-way coupling 2D-3D hybrid finite element
 
 **2.** **Fluid-Structure Interaction simulation:** [**[RG001](https://gm-ling.github.io/Research%20Projects/)**], [**[PJ009](https://gm-ling.github.io/Research%20Publications)**]. 
 
-Guoming Ling, Mitsuteru Asai and Kenjiro Terada, FCM-FEM hybrid scheme equipped with a ghost element coupler for liquid–gas–solid three phase simulation. 	Computational Mechanics (2025).
+Guoming Ling, Mitsuteru Asai and Kenjiro Terada, FCM-FEM hybrid scheme equipped with a ghost element coupler for liquid–gas–solid three phase simulation. Computational Mechanics, Vol.77, pages 1327–1354 (2026). doi: 10.1007/s00466-025-02709-y
 
 ![FSI simulation](/images/phi1s.gif)
 
