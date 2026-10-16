@@ -33,6 +33,11 @@ Guoming Ling, Damrongsak Wirasaet, Joannes J. Westerink, Mitsuteru Asai, Global 
 
 **4.2. GESTOFS [https://gm-ling.github.io/GESTOFS-develop/](https://gm-ling.github.io/GESTOFS-develop/)**
 
+**5.** **Morphodynamic Simulation:** 
+G. Ling, R. Matsumoto, S. Tanaka, M. Asai, D. Wirasaet and J. Westerink, A depth-averaged discontinuous Galerkin morphodynamic model with orthogonal bubble function-based boundary treatment, Water Resources Research, 2026.10.12(Accept)
+
+
+
 <div style="font-size: 0.9em; color: #666; margin-top: 20px;">
   Page views:
   <img
