@@ -14,7 +14,7 @@ Peer-reviewed Journal Articles
 </h2>
 
 <u>[PJ011]</u>. **"A depth-averaged discontinuous Galerkin morphodynamic model with orthogonal bubble function-based boundary treatment."**  
-**Water Resources Research**, Volume 62, Issue 12, e2026WR043808, 2026.11. **[https://doi.org/10.1029/2026WR043808](https://doi.org/10.1029/2026WR043808)**   
+**Water Resources Research**, Volume 62, Issue 12, e2026WR043808, 2026.11.25. **[https://doi.org/10.1029/2026WR043808](https://doi.org/10.1029/2026WR043808)**   
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Reo Matsumoto, Seizo Tanaka, Mitsuteru Asai*,	Damrongsak Wirasaet and Joannes Westerink.  
 🔑<u>Keywords</u>: Discontinuous Galerkin method, Shallow water equations, Exner equation, Riverbed evolution, Secondary flow modeling, No-normal flow boundary condition.
 
